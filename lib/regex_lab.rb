@@ -1,2 +1,4 @@
 require 'pry'
-def starts
+def starts_with_a_vowel?
+  if 
+end
